@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ClassLessSB
-- 👀 I’m interested in Java and problem solving.
-- 🌱 I’m currently learning problem solving.
-- 💞️ I’m looking to collaborate on java projects.
+- 👋 Hi, I’m @SuvraBarua
+- 👀 I’m interested in collaborate in open source project and learning new things.
+- 🌱 I’m currently working on a backend project for my university.
+- 💞️ I’m looking to collaborate on projects that will help me grow as a programmer.
+- ✨ I'm experienced in:
+- 🏝Java, 🖥SQL Server, 🖥JDBC, 🖥Servlet and JSP, 🖥C++, 🖥JavaScript, 🖥HTML and CSS.
 - 📫 How to reach me: suvrabarua4@gmail.com.
 
 <!---
