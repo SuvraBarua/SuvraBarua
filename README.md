@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuvraBarua
-- 👀 I’m interested in collaborate in open source project and learning new things.
+- 👀 I’m interested in collaborating in open source project and learning new things.
 - 🌱 I’m currently working on a backend project for presentation at my university.
 - 💞️ I’m looking to collaborate on projects that will help me grow as a programmer.
 - ✨ I'm experienced in:
