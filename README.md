@@ -6,7 +6,3 @@
 - 🏝Java, 🖥SQL Server, 🖥JDBC, 🖥Servlet and JSP, 🖥C++, 🖥JavaScript, 🖥HTML and CSS.
 - 📫 How to reach me: suvrabarua4@gmail.com.
 
-### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SuvraBarua&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuvraBarua&layout=compact&theme=radical)
