@@ -7,5 +7,5 @@
 - 📫 How to reach me: suvrabarua4@gmail.com.
 
 ### 📊 My GitHub Stats
-![My GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuvraBarua&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvraBarua&layout=compact&theme=radical)
